@@ -6,9 +6,7 @@ import Header from './Components/Header/Header'
 import Visual from './Components/Visual/Visual'
 import Footer from './Components/Footer/Footer'
 import About from './Components/About/About'
-// eslint-disable-next-line
 import gsap from 'gsap'  
-// eslint-disable-next-line
 import ScrollTrigger from 'gsap/dist/ScrollTrigger' 
 import Scrollbar from 'smooth-scrollbar';
 

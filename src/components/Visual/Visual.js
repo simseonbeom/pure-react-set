@@ -7,10 +7,7 @@ import gsap from 'gsap'
 
 function Visual({a,b}){
 
-  useEffect(()=>{
-
-   
-  },[])
+  
   
   return(
     

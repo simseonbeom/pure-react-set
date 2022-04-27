@@ -4,11 +4,7 @@ import gsap from 'gsap'
 
 
 function About() {
-  useEffect(()=>{
 
-  },[])
-
-  
   return (
     <>
     <S.section className="About">
