@@ -2,7 +2,7 @@
 import styled from '@emotion/styled';
 
 
-export const main = styled.section`
+export const section = styled.section`
     
     background: gray;
 
@@ -12,7 +12,7 @@ export const main = styled.section`
       background: dodgerblue;
     }
 
-    section:nth-child(even){
+    section:nth-of-type(even){
       background:hotpink;
     }
 `

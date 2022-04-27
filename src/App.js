@@ -54,8 +54,11 @@ function App() {
   }, [scrollBarCreated]);
 
 
+
   return (
+    
     <div className="App">
+      <div className="fake"></div>
       <div className="scroller">
         <Header />
         <main>
