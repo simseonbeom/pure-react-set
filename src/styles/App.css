@@ -1,7 +1,10 @@
 .App {
   
-  background:red;
-  
+}
+
+
+.scroller{
+  height: 100vh;
 }
 
 

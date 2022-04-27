@@ -1,4 +1,7 @@
 
+// import { Link } from "react";
+import { Link } from 'react-router-dom';
+
 import * as S from './Header.styled';
 
 function Header({Component,pageProps}){
@@ -7,13 +10,15 @@ function Header({Component,pageProps}){
     <>
     <S.Head>
       <h1 className="logo">❤️</h1>
-      <ul className="gnb">
-        <li>list01</li>
-        <li>list01</li>
-        <li>list01</li>
-        <li>list01</li>
-        <li>list01</li>
-      </ul>
+      <nav className="gnb">
+        <Link to="/">home</Link>
+        <Link to="/about">list01</Link>
+        <Link to="/about">list01</Link>
+        <Link to="/about">list01</Link>
+        <Link to="/about">list01</Link>
+        <Link to="/about">list01</Link>
+        
+      </nav>
     </S.Head>
     </>
   )

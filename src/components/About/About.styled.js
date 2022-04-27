@@ -2,18 +2,18 @@
 import styled from '@emotion/styled';
 
 
-export const main = styled.section`
+export const section = styled.section`
     
     background: gray;
 
     section{
       width: 100vw;
       height: 100vh;
-      background: dodgerblue;
+      background: greenyellow;
     }
 
     section:nth-child(even){
-      background:hotpink;
+      background: gray;
     }
 `
 
