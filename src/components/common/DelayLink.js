@@ -7,7 +7,7 @@ export const DelayLink = props => {
   const { delay, onDelayStart, onDelayEnd, replace, to, ...rest } = props;
   let timeout = null;
   let navigate = useNavigate();
-  let location = useLocation()
+  let location = useLocation();
 
   useEffect(() => {
     return () => {

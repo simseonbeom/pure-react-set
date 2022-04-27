@@ -9,7 +9,6 @@ import About from './Components/About/About'
 import gsap from 'gsap'  
 import ScrollTrigger from 'gsap/dist/ScrollTrigger' 
 import Scrollbar from 'smooth-scrollbar';
-
 import {Route, Routes} from 'react-router-dom'
 
 
@@ -56,7 +55,7 @@ function App() {
   return (
     
     <div className="App">
-      <div className="fake"></div>
+      <div className="loadingScreen"></div>
       <div className="scroller">
         <Header />
         <main>

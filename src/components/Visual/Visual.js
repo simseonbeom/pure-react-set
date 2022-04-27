@@ -7,8 +7,6 @@ import gsap from 'gsap'
 
 function Visual({a,b}){
 
-  
-  
   return(
     
       <S.section className="visual">
