@@ -1,13 +1,14 @@
 
-import "../../styles/Footer.css";
+import * as S from './Footer.styled';
+
 
 function Footer({a,b}){
 
   return(
     <>
-      <footer className="footer">
+      <S.Foot className="footer">
         Footer
-      </footer>
+      </S.Foot>
     </>
   )
 }

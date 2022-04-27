@@ -1,12 +1,11 @@
 
-import "../../styles/Header.css";
+import * as S from './Header.styled';
 
-
-function Header({a,b}){
+function Header({Component,pageProps}){
 
   return (
     <>
-    <header className="header">
+    <S.Head>
       <h1 className="logo">❤️</h1>
       <ul className="gnb">
         <li>list01</li>
@@ -15,7 +14,7 @@ function Header({a,b}){
         <li>list01</li>
         <li>list01</li>
       </ul>
-    </header>
+    </S.Head>
     </>
   )
 }
