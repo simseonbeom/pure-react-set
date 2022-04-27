@@ -1,0 +1,9 @@
+
+
+.visual{
+  height: 300px;
+  background: gray;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
