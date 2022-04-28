@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/simseonbeom/pure-react-set/static/css/main.fe4b8777.css",
-    "main.js": "/simseonbeom/pure-react-set/static/js/main.0245bfbc.js",
+    "main.js": "/simseonbeom/pure-react-set/static/js/main.b40e8cb1.js",
     "static/js/787.dfe8b844.chunk.js": "/simseonbeom/pure-react-set/static/js/787.dfe8b844.chunk.js",
     "index.html": "/simseonbeom/pure-react-set/index.html",
     "main.fe4b8777.css.map": "/simseonbeom/pure-react-set/static/css/main.fe4b8777.css.map",
-    "main.0245bfbc.js.map": "/simseonbeom/pure-react-set/static/js/main.0245bfbc.js.map",
+    "main.b40e8cb1.js.map": "/simseonbeom/pure-react-set/static/js/main.b40e8cb1.js.map",
     "787.dfe8b844.chunk.js.map": "/simseonbeom/pure-react-set/static/js/787.dfe8b844.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe4b8777.css",
-    "static/js/main.0245bfbc.js"
+    "static/js/main.b40e8cb1.js"
   ]
 }
