@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/simseonbeom/pure-react-set/static/css/main.fe4b8777.css",
-    "main.js": "/simseonbeom/pure-react-set/static/js/main.31afb6a3.js",
-    "static/js/787.a2bf511c.chunk.js": "/simseonbeom/pure-react-set/static/js/787.a2bf511c.chunk.js",
-    "index.html": "/simseonbeom/pure-react-set/index.html",
-    "main.fe4b8777.css.map": "/simseonbeom/pure-react-set/static/css/main.fe4b8777.css.map",
-    "main.31afb6a3.js.map": "/simseonbeom/pure-react-set/static/js/main.31afb6a3.js.map",
-    "787.a2bf511c.chunk.js.map": "/simseonbeom/pure-react-set/static/js/787.a2bf511c.chunk.js.map"
+    "main.css": "/simseonbeom/aa/static/css/main.fe4b8777.css",
+    "main.js": "/simseonbeom/aa/static/js/main.eac3ec40.js",
+    "static/js/787.a2bf511c.chunk.js": "/simseonbeom/aa/static/js/787.a2bf511c.chunk.js",
+    "index.html": "/simseonbeom/aa/index.html",
+    "main.fe4b8777.css.map": "/simseonbeom/aa/static/css/main.fe4b8777.css.map",
+    "main.eac3ec40.js.map": "/simseonbeom/aa/static/js/main.eac3ec40.js.map",
+    "787.a2bf511c.chunk.js.map": "/simseonbeom/aa/static/js/787.a2bf511c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe4b8777.css",
-    "static/js/main.31afb6a3.js"
+    "static/js/main.eac3ec40.js"
   ]
 }
